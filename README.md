@@ -1,3 +1,7 @@
+> **Status:** Experimental diagnostic tool  
+> **Scope:** Long-horizon identity stability testing  
+> **Not a benchmark. Not an alignment claim.**
+
 # Identity Collapse Detection Engine
 
 A small diagnostic tool for measuring **identity drift, erosion, and collapse** in large language models.
